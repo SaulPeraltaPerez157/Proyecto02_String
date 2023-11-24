@@ -30,6 +30,8 @@ public class main{
 		System.out.println("Reemplazando Adrien por Noir:");
 		a=a.replace("Adrien","Noir");
 		System.out.println(a);
+		System.out.println("Probando el metodo trim");
+		System.out.println((c.trim()).length());
 	}
 
 
