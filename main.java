@@ -31,7 +31,9 @@ public class main{
 		a=a.replace("Adrien","Noir");
 		System.out.println(a);
 		System.out.println("Probando el metodo trim");
+		//Se corta el espacio que hay en la cadena c.
 		System.out.println((c.trim()).length());
+		//Agrego comentario
 	}
 
 
